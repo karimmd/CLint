@@ -1,0 +1,2 @@
+#define CLINT_VERSION_STRING "1.66"
+#define CLINT_VERSION 1,66,0,0
