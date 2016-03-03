@@ -1,7 +1,7 @@
 # CLint
 Static Analysis Checking Application for C and C++
 
-A new system named CLINT was designed and implemented as a part of my Graduate Final Project, which can be used to detect security vulnerabilities like buffer overflow, memory leak on the source code of the C and C++ programming language. The results from some several experiments have showed that this system can find possible security vulnerabilities in the software and also can establish the capability and the effectiveness to help the developers creating software with less security flaws in the upcoming days. 
+CLINT was designed and implemented as a part of my Graduate Final Project, which can be used to detect security vulnerabilities like buffer overflow, memory leak on the source code of the C and C++ programming language. The results from some several experiments have showed that this system can find possible security vulnerabilities in the software and also can establish the capability and the effectiveness to help the developers creating software with less security flaws in the upcoming days. 
 
 
 The principle contents of this research are as follows:
